@@ -1,0 +1,8 @@
+Shopee Access Token Response: {
+  refresh_token: '7a43527043674f6d744c70594c495267',
+  access_token: '6a79667149444e57714a6654616b7778',
+  expire_in: 14301,
+  request_id: 'e3e3e7f334ed58735c24b06b79dded00',
+  error: '',
+  message: ''
+}
